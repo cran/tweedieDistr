@@ -1,6 +1,6 @@
-a4b276168c141c90c47c8f9f884a265d *DESCRIPTION
+40e499e29bdbcab0bfdb2110b466d784 *DESCRIPTION
 623f5d9902aba662eecd9d3c6022a398 *NAMESPACE
-7a840db72a926731b0d216f9c5897542 *NEWS.md
+cee0030e8d080fef07e46bb8316c82c9 *NEWS.md
 0530f7f1ff8510887dd7ce3c9bf61050 *R/RcppExports.R
 79d4c831f76657898f8544ad41ef4247 *R/dist_tweedie.R
 ef623bfa58092a12793113b78e29c70c *R/dpqr_tweedie.R
@@ -14,11 +14,11 @@ c2f35f312fa4b1188fd1b5579bf2c4f1 *man/tweedie.Rd
 2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
 2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars.win
 4f2524bbfe306cae8263f2600c75e108 *src/RcppExports.cpp
-68a240c1d7de88834d9f870fd54ae218 *src/dtweedie.cpp
-a22e9417a1510be84c1e4b3332a177a0 *src/ptweedie.cpp
-e4ffebaad3b50d3318ceb9d6b16fae1f *src/qtweedie.cpp
-4ca5d7dd22e670114d801fcb127356af *src/utils.cpp
-dd87346515adae271342066907e46422 *src/utils.h
+1e3db020dff8e8915cafb95cf8a37238 *src/dtweedie.cpp
+b55cbdb46a227c42aa2f056c81cb7aca *src/ptweedie.cpp
+0367373d942e3fd9974f64299eaf733d *src/qtweedie.cpp
+5d0d969e1c959d0c4632371f6bc20a6d *src/utils.cpp
+ecca7369323acb35ce8d2143417565b9 *src/utils.h
 b26f53687fb4d1cea96cec7563180e15 *tests/testthat.R
 02d08bcd6d182f3bbd8dad36674fcac3 *tests/testthat/test-dist_tweedie.R
 0e330f4b07960e828870592279447124 *tests/testthat/test-dtweedie.R
